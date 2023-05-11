@@ -4,6 +4,3 @@
 [submodule "jupyterhub"]
 	path = jupyterhub
 	url = https://github.com/jupyterhub/jupyterhub.git
-[submodule "kubespray"]
-	path = kubespray
-	url = https://github.com/kubernetes-sigs/kubespray.git
