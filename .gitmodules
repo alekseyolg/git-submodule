@@ -4,3 +4,6 @@
 [submodule "jupyterhub"]
 	path = jupyterhub
 	url = https://github.com/jupyterhub/jupyterhub.git
+[submodule "airflow-dags-kubernetes"]
+	path = airflow-dags-kubernetes
+	url = https://github.com/alekseyolg/airflow-dags-kubernetes.git
